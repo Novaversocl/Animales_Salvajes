@@ -1,8 +1,3 @@
-# Animales_Salvajes
- Crear clases con herencias, Exportar  e importar módulos, Crear funciones autoejecutables IIFE, Crear funciones async / await,  Crear instancias de clases, Obtener y modificar elementos del DOM. 
-¡Claro! Aquí tienes un README.md para tu proyecto en GitHub:
-
-
 # Gestor de Contenido para Animales Salvajes
 
 ## Resumen del proyecto:
@@ -11,31 +6,25 @@ Este proyecto es un gestor de contenido que permite a los usuarios registrar inf
 
 ## Tecnologías front-end:
 
-- HTML5
-- CSS3
-- JavaScript
-- jQuery
-- CanvasJS
-- Bootstrap
-- Jekyll
+- HTML5: Utilizado para estructurar el contenido de las páginas web.
+- CSS3: Utilizado para estilizar y diseñar la presentación del contenido web.
+- JavaScript: Utilizado para agregar interactividad y funcionalidades dinámicas a la página.
+- jQuery: Biblioteca de JavaScript utilizada para simplificar la manipulación del DOM y manejar eventos.
+- Bootstrap: Framework de CSS utilizado para el diseño responsivo y la creación rápida de interfaces de usuario.
 
-## Tecnologías back-end:
 
-- Ruby (no se especifica la base de datos)
 
 ## Otras tecnologías:
 
-- Font Awesome
-- Google Font API
-- HTTP/2
-- Popper.js
-- Open Graph
-- Varnish
-- Fastly
-- Google Hosted Libraries
-- jsDelivr
-- jQuery CDN
-- Cloudflare
+- Font Awesome: Biblioteca de iconos utilizada para agregar iconografía a la interfaz de usuario.
+- Google Font API: Utilizado para cargar fuentes personalizadas en la página web.
+- HTTP/2: Protocolo de red utilizado para mejorar el rendimiento y la seguridad de la comunicación entre el cliente y el servidor.
+- Popper.js: Biblioteca utilizada para gestionar la posición de los elementos emergentes y las superposiciones.
+- Open Graph: Protocolo utilizado para agregar metadatos a las páginas web y mejorar su visualización en las redes sociales.
+- Google Hosted Libraries: Servicio utilizado para alojar bibliotecas de JavaScript y CSS de uso común.
+- jsDelivr: CDN utilizado para distribuir contenido web, incluidas bibliotecas de JavaScript.
+- jQuery CDN: CDN utilizado para distribuir la biblioteca jQuery.
+- Cloudflare: Servicio de red de entrega de contenido y seguridad web utilizado para mejorar el rendimiento y la seguridad del sitio.
 
 ## Características:
 
@@ -49,6 +38,6 @@ Este proyecto es un gestor de contenido que permite a los usuarios registrar inf
 
 ## Enlaces:
 
-- Repositorio GitHub: [Enlace al Repositorio](https://www.facebook.com/9AnimalesSalvajes/)
-- Página web: [Enlace a la Página](https://www.facebook.com/groups/369983143691821/)
+- Página web: [Enlace a la Página](https://novaversocl.github.io/Animales_Salvajes/)
+
 
