@@ -2,7 +2,7 @@
 
 ## Resumen del proyecto:
 
-Este proyecto es un gestor de contenido que permite a los usuarios registrar información sobre animales salvajes. El proyecto utiliza tecnologías tanto front-end como back-end para su funcionamiento.
+Este proyecto es un gestor de contenido que permite a los usuarios registrar información sobre animales salvajes.
 
 ## Tecnologías front-end:
 
