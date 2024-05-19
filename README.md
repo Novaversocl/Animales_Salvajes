@@ -36,6 +36,11 @@ Este proyecto es un gestor de contenido que permite a los usuarios registrar inf
 - Uso de patrones de diseño como "Factory Method" y "Observer".
 - Manipulación del DOM para mostrar y actualizar la información en la página.
 
+## Imagen:
+
+- ![imagen](https://github.com/Novaversocl/Animales_Salvajes/assets/95386670/a0bfa820-9426-4b65-9063-cba4ef1eae49)
+
+
 ## Enlaces:
 
 - Página web: [Enlace a la Página](https://novaversocl.github.io/Animales_Salvajes/)
