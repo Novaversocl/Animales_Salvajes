@@ -9,7 +9,7 @@ export async function cargarRutaImg() {
   // Función interna asíncrona que obtiene los datos de imagen JSON
   async function getImagenJson() {
     // Realiza una solicitud fetch para obtener los datos de la imagen JSON desde el servidor local
-    const response = await fetch("http://127.0.0.1:5500/tabla_ruta.json");
+    const response = await fetch("https://novaversocl.github.io/Animales_Salvajes/tabla_ruta.json");
     // Convierte la respuesta en formato JSON
     const datos = await response.json();
     // Retorna los datos obtenidos
